@@ -149,7 +149,7 @@ html{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
+  
 }
 .select-input__label{
     font-size: 1.4rem;
